@@ -3,12 +3,11 @@
 Servo myservo;  // create servo object to control a servo
 Servo myservo2;
 
-//int pos = 0; // variable to store the servo position
-int potpin0 = 0;  // analog pin used to connect the potentiometer
-int potpin1 = 1; 
-int potpin2 = 2;
-int val0;    // variable to read the value from the analog pin
-int val1;
+int potpin0 = 0;  // address analog pin to read data from the potentiometer
+int potpin1 = 1; // potentiometer address
+//int heartbeat = 2; // replace potpin2 with heartbeat if you want to add a heart beat sensor 
+int val0;  // variable to read the value from the analog pin (looking for 1-5Volts)
+int val1; 
 
 
 void setup() {
@@ -19,7 +18,7 @@ void setup() {
 
 void loop() {
   val0 = analogRead(potpin0); // reads the value of the voltage of the potentiometer (value between 0 and 1023)
-  val0 = map(val0, 0, 1023, 0, 90); // scale it to use it with the servo (value between 0 and 180)
+  val0 = map(val0, 0, 1023, 0, 90); // 0-1023 is what we're reading and we scale it to use it with the servo (value between 0 and 180)
   
   val1 = analogRead(potpin1);
   val1 = map(val1, 0, 1023, 0, 90);
