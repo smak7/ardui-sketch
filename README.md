@@ -18,9 +18,9 @@ Below is an instructional of how to create the one and only ardui-sketch.
 arduino, illustrator 
 
 
-####To start // 
+####To Start  
 1. Review the code provided and try to understand it. If you have any questions regarding the commenting, reach out to me! 
-2. Upload your code to your arduino. 
+2. Upload your code to your arduino.
 3. Connect your servos to your arduino. 
   
     We'll begin with conneting a red wire to 5V on the arduino and to a (+) slot on your breadboard.  
@@ -29,7 +29,11 @@ arduino, illustrator
     Attach Servo 2's white wire to Analog 12 on the arduino and again the red wire to (+) and the black wire to (-) on your         breadboard.
     
     Now we'll set up our potentiometers. A potentiometer has three prongs, a negative, a positive and an analog. Place your        potentiometer so that no two prongs are on the same line of your breadboard (this is really important! you don't want to blow    your arduino!). Connect the positive to a red wire, back to 5V and the negative to a black wire that goes back to ground.       Repeat for second potentiometer. Below is a photo for you reference!
+<div style="text-allign:center">
+<img src= "https://github.com/smak7/ardui-sketch/blob/master/docs/arduino_connections.jpg" width=500 alt="Sample Arduino Connections">
+</div>
     
+
     
 
 ####Steps for making and putting together the drawing arm
