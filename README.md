@@ -3,9 +3,9 @@
 
 Below is an instructional of how to create the one and only ardui-sketch.
 
-<header>Materials: ** </header>
+<header>Materials:</header>
 
-(1) arduino
+(1) arduino kit
 
 (1) breadboard 
 
@@ -23,28 +23,42 @@ Below is an instructional of how to create the one and only ardui-sketch.
 
 (1) Exacto Knife and/or Scissors 
 
-Programs Needed:**
+Programs Needed:
 arduino 
+
 illustrator 
 
 
-Step 1**: Review the code provided and try to understand it. If you have any questions regarding the commenting, reach out to me! 
+To start // 
+Step 1. Review the code provided and try to understand it. If you have any questions regarding the commenting, reach out to me! 
+Step 2. Upload your code to your arduino. 
+Step 3. Connect your servos to your arduino. 
+  
+    We'll begin with conneting a red wire to 5V on the arduino and to a (+) slot on your breadboard.  
+    Then you'll put a black wire to Ground on the arduino and to the (-) slot on your breadboard.
+    Attach Servo 1's white wire to digital 8 on the ardunio and the red wire to (+) on your breadboard, and the black wire to       (-) on your breadboard.
+    Attach Servo 2's white wire to Analog 12 on the arduino and again the red wire to (+) and the black wire to (-) on your         breadboard.
+    
+    Now we'll set up our potentiometers. A potentiometer has three prongs, a negative, a positive and an analog. Place your        potentiometer so that no two prongs are on the same line of your breadboard (this is really important! you don't want to blow    your arduino!). Connect the positive to a red wire, back to 5V and the negative to a black wire that goes back to ground.       Repeat for second potentiometer. Below is a photo for you reference!
+    
+    
 
-Step 2**: Time to bond with your arduino. Below is a photo of the 
 
-Step 2**: In Illustrator create a shape for your baseboard which the drawing arm, arduino and bread boards will be attached to. Print on laser cutter. 
+Steps for making and putting together the drawing arm
 
-Step 3**: In Illustrator create a shape for your drawing arm and print on laser cutter.
+Step 1: In Illustrator create a shape for your baseboard which the drawing arm, arduino and bread boards will be attached to. Print on laser cutter. 
 
-Step 4**: Using the hot glue gun glue your arduino and breadboards to your piece of wood. 
+Step 2: In Illustrator create a shape for your drawing arm and print on laser cutter.
 
-Step 5**: Glue one servo motor to the baseboard. Once it is dry, glue the drawing arm surface onto the servo. 
+Step 3: Using the hot glue gun glue your arduino and breadboards to your piece of wood. 
 
-Step 6**: Glue the second servo motor onto the drawing arm surface. Once it is dry, glue the second drawing arm surface onto the second servo. 
+Step 4: Glue one servo motor to the baseboard. Once it is dry, glue the drawing arm surface onto the servo. 
 
-Step 7**. Measure the distance between the second drawing arm and your table surface. Using your exacto knife cut a pencil according to your measurements. 
+Step 5: Glue the second servo motor onto the drawing arm surface. Once it is dry, glue the second drawing arm surface onto the second servo. 
 
-Step 8**. Glue pencil to the drawing arm. 
+Step 6. Measure the distance between the second drawing arm and your table surface. Using your exacto knife cut a pencil according to your measurements. 
+
+Step 7. Glue pencil to the drawing arm. 
 
 Here is a quick video showing how to assemble the serves to the drawing arms. 
 
