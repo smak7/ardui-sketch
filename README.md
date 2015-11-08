@@ -3,7 +3,7 @@
 
 Below is an instructional of how to create the one and only ardui-sketch.
 
-<header>Materials:**</header>
+<header>Materials: ** </header>
 
 (1) arduino
 
