@@ -3,9 +3,9 @@
 
 Below is an instructional of how to create the one and only ardui-sketch.
 
-Materials:
-(1) arduino 
-(1) breadboard
+<header>Materials:</header>
+<p2> (1) arduino </p2>
+<p3>(1) breadboard </p3>
 (2) potentiometers
 (2) servos
 (1) wooden pencil
