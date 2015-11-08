@@ -1,5 +1,5 @@
-# drawing_with_arduino
-<p> Ardui-Sketch, a drawing arm operated by two knobs allowing the user to control the movement and markings of the pencil.</p>
+# Ardui-Sketch
+Ardui-Sketch, a drawing arm operated by two knobs allowing the user to control the movement and markings of the pencil.
 
 Below is an instructional of how to create the one and only ardui-sketch.
  
@@ -31,7 +31,6 @@ arduino, illustrator
     Now we'll set up our potentiometers. A potentiometer has three prongs, a negative, a positive and an analog. Place your        potentiometer so that no two prongs are on the same line of your breadboard (this is really important! you don't want to blow    your arduino!). Connect the positive to a red wire, back to 5V and the negative to a black wire that goes back to ground.       Repeat for second potentiometer. Below is a photo for you reference!
     
     
-
 
 ####Steps for making and putting together the drawing arm
 
