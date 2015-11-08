@@ -22,7 +22,7 @@ arduino, illustrator
 1. Review the code provided and try to understand it. If you have any questions regarding the commenting, reach out to me! 
 2. Upload your code to your arduino.
 3. Connect your servos and potentiometers to your arduino.
-..* We'll begin with conneting a red wire to 5V on the arduino and to a (+) slot on your breadboard.  
+  * We'll begin with conneting a red wire to 5V on the arduino and to a (+) slot on your breadboard.  
     Then you'll put a black wire to Ground on the arduino and to the (-) slot on your breadboard.
     Attach Servo 1's white wire to digital 8 on the ardunio and the red wire to (+) on your breadboard, and the black wire to       (-) on your breadboard.
     Attach Servo 2's white wire to Analog 12 on the arduino and again the red wire to (+) and the black wire to (-) on your         breadboard.
