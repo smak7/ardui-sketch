@@ -1,5 +1,5 @@
 # drawing_with_arduino
-Ardui-Sketch, a drawing arm operated by two knobs allowing the user to control the movement and markings of the pencil.
+<p> Ardui-Sketch, a drawing arm operated by two knobs allowing the user to control the movement and markings of the pencil.</p>
 
 Below is an instructional of how to create the one and only ardui-sketch.
 
