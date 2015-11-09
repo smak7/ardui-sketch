@@ -39,7 +39,7 @@ arduino, illustrator
 </div>
 
 Before you get started on putting the drawing arm together take a look at this quick video showing how the drawing arm works.
-[![arduisketch](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
+[![arduisketch]](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
 
     
 
