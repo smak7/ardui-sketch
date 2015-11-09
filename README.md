@@ -48,8 +48,13 @@ arduino, illustrator
 6. Measure the distance between the second drawing arm and your table surface. Using your exacto knife cut a pencil according to your measurements. 
 7. Glue pencil to the drawing arm. 
 
-Here is a quick video showing how to assemble the serves to the drawing arms. 
+Here is a quick video showing how the drawing arm works. 
 
+<video width="320" height="240" controls>
+  <source src="http://video.webmfiles.org/big-buck-bunny_trailer.webm" type="video/webm">
+  <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
