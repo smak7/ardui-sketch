@@ -1,5 +1,6 @@
 # Ardui-Sketch
 Ardui-Sketch, a drawing arm operated by two knobs allowing the user to control the movement and markings of the pencil.
+[insert image here]
 
 Below is an instructional of how to create the one and only ardui-sketch.
  
