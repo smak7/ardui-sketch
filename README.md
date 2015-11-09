@@ -50,11 +50,7 @@ arduino, illustrator
 
 Here is a quick video showing how the drawing arm works. 
 
-<video width="320" height="240" controls>
-  <source src="http://video.webmfiles.org/big-buck-bunny_trailer.webm" type="video/webm">
-  <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 
 
