@@ -31,10 +31,15 @@ arduino, illustrator
     * Connect the positive to a red wire, back to 5V and the negative to a black wire that goes back to ground.
     * Repeat for second potentiometer. Below is a photo for you reference!
 
+4. Connect your arduino to power and test the potentiometers. 
+
+Here is a quick video showing how the drawing arm works.
+
 <div style="text-align:center">
 <img src="https://github.com/smak7/ardui-sketch/blob/master/docs/arduino_connections.jpg" width=500 alt="Sample Arduino Connections" align="center">
 </div>
-    
+
+..now back to work! 
 
     
 
@@ -47,10 +52,6 @@ arduino, illustrator
 5. Glue the second servo motor onto the drawing arm surface. Once it is dry, glue the second drawing arm surface onto the second servo. 
 6. Measure the distance between the second drawing arm and your table surface. Using your exacto knife cut a pencil according to your measurements. 
 7. Glue pencil to the drawing arm. 
-
-Here is a quick video showing how the drawing arm works. 
-
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 
 
