@@ -38,10 +38,8 @@ arduino, illustrator
 <img src="https://github.com/smak7/ardui-sketch/blob/master/docs/arduino_connections.jpg" width=500 alt="Sample Arduino Connections" align="center">
 </div>
 
-..now back to work! 
-
-Here is a quick video showing how the drawing arm works.
-[![arduisketch]](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
+Before you get started on putting the drawing arm together take a look at this quick video showing how the drawing arm works.
+[![arduisketch](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
 
     
 
