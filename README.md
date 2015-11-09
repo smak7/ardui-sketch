@@ -33,13 +33,15 @@ arduino, illustrator
 
 4. Connect your arduino to power and test the potentiometers. 
 
-Here is a quick video showing how the drawing arm works.
 
 <div style="text-align:center">
 <img src="https://github.com/smak7/ardui-sketch/blob/master/docs/arduino_connections.jpg" width=500 alt="Sample Arduino Connections" align="center">
 </div>
 
 ..now back to work! 
+
+Here is a quick video showing how the drawing arm works.
+[![arduisketch](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
 
     
 
