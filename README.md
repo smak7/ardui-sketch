@@ -41,7 +41,7 @@ arduino, illustrator
 ..now back to work! 
 
 Here is a quick video showing how the drawing arm works.
-[![arduisketch](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
+[![arduisketch](https://github.com/smak7/ardui-sketch/blob/master/docs/arduino_connections.jpg)](https://vimeo.com/145080324?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220")
 
     
 
